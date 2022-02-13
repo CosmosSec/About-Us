@@ -19,6 +19,6 @@ Coming soon!
 
 
 ## Contact Information 
-# Cosmos
+### Cosmos
 - Discord: Cosmos#2424
 - Email: cosmospublic24@gmail.com
