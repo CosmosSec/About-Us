@@ -14,7 +14,7 @@ Cosmos: I am a 17 year old highschool student who has been learning about IT for
 
 
 ## Projects 
-Coming soon!
+Lotus: Network information gathering tool
 
 
 
