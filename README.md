@@ -1,6 +1,6 @@
 # About-Us
 
-
+We are a small group of people who are interested in cyber security and programming. Each of us has own expreince and knowledge when it comes to these things. We make networking tools and discord bots for now.
 
 
 
